@@ -2,4 +2,4 @@
 
 # Practice Repository...
 <br>
-Author - Ajay Ramchnadra Gole..
+Author - Ajay Ramchandra Gole..
